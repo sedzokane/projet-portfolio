@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  header {
+    background: black;
+    color: #fff;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav h1 {
+    font-size: 2em;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .Accueil {
+    background: cornflowerblue;
+    color: white;
+    text-align: center;
+    padding: 5em;
+    width: 65%;
+  }
+  
+  .Accueil img {
+    width: 120px;
+    border-radius: 50%;
+  }
+  
+  .Accueil .btn{
+    display: inline-block;
+    margin-top: 1rem;
+    background: white;
+    color: #3498db;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .Moi {
+    background: white;
+    padding: 2rem;
+  }
+  h3{
+    font-size: 2em;
+
+  }
+  
+  
+  
